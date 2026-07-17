@@ -202,7 +202,7 @@ AVATAR is an interactive visualization system for pre-segmented volumetric tumor
 ## Main Author
 
 Sarah Abu Irmeileh
-- Medical Computing Researcher 
+- Medical Computing Researcher
 - sarahabuirmeileh@gmail.com
 
 ## Supervisor
